@@ -195,6 +195,90 @@ a:focus,
   }
 }
 
+/* Case Study Page */
+
+.case-body {
+  background: #f9f6f7;
+  color: #343a40;
+}
+
+.texter-style {
+  background: #fceff0;
+}
+
+.case-header {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  padding: 1.5em;
+  background: #e35760;
+  border-bottom: 8px solid #e5676f;
+  text-align: left;
+  z-index: 1;
+}
+
+.back-link {
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.5em;
+}
+
+.back-link:hover {
+  color: #343a40;
+}
+
+.case-study {
+  padding: 2em;
+  text-align: left;
+}
+
+.case-study h1 {
+  padding: 1.2em;
+  line-height: 1.2em;
+  text-align: center;
+}
+
+.intro img,
+.server-img img,
+.client-img img {
+  -webkit-box-shadow: 2px 2px 10px -3px rgba(52, 58, 64, 0.99);
+  box-shadow: 2px 2px 10px -3px rgba(52, 58, 64, 0.99);
+}
+
+.intro-img,
+.server-img,
+.client-img {
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+.server-img img,
+.client-img img {
+  margin-bottom: 1em;
+}
+
+.client-content {
+  padding-top: 0;
+}
+
+.challenges,
+.duration,
+.credits {
+  margin-top: 1.5em;
+}
+
+.social.case-social {
+  padding-top: 1em;
+}
+
+.case-footer {
+  padding: 2em 1em 0.5em;
+  background: #343a40;
+  color: #fff;
+  border-top: 8px solid #e5676f;
+  text-align: center;
+}
+
 /*about page*/
 
 .button {
