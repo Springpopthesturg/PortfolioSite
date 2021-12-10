@@ -448,3 +448,48 @@ list-style-type: none;
   -webkit-animation-timing-function: linear;
           animation-timing-function: linear;
 }
+
+.case-body {
+  background: #f9f6f7;
+  color: #343a40;
+}
+
+.case-header {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  padding: 1.5em;
+  background: #f5f5db;
+  border-bottom: 4px solid black;
+  text-align: left;
+  z-index: 1;
+}
+
+.back-link {
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.5em;
+}
+
+.back-link:hover {
+  color: #343a40;
+}
+
+.case-study {
+  padding: 2em;
+  text-align: left;
+}
+
+.case-study h1 {
+  padding: 1.2em;
+  line-height: 1.2em;
+  text-align: center;
+}
+
+.case-footer {
+  padding: 2em 1em 0.5em;
+  background: #343a40;
+  color: #fff;
+  border-top: 4px solid black;
+  text-align: center;
+}
