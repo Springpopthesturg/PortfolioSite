@@ -156,7 +156,7 @@ a:focus,
 }
 
 .project__item {
-  background-color: #B0C4DE;
+  background-color: #63a3f7;
   text-align: center;
 }
 
@@ -342,6 +342,10 @@ button:focus,
 .hobbys {
 list-style-type: none;
 }
+
+.goals {
+  list-style-type: none;
+  }
 
 #about-header {
   border-bottom: 2px solid black;
