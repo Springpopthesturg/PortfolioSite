@@ -50,6 +50,11 @@ input, texture, select, button {
   font-family: system-ui;
 }
 
+.logo {
+  width:fit-content 80;
+  height:fit-content 80;
+}
+
 button {
   /* overwrites browser defaults and resets the border */
   border: none;
